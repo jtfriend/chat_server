@@ -1,0 +1,22 @@
+{
+  "name": "chat_example",
+  "version": "1.0.0",
+  "description": "first look at nodejs",
+  "main": "chat_app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Joseph Friend",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0"
+  }
+}
